@@ -181,7 +181,7 @@ proto-plus==1.20.6
 protobuf==3.19.4
 psutil @ file:///home/conda/feedstock_root/build_artifacts/psutil_1653089169272/work
 ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
-pyarrow==8.0.0
+pyarrow==14.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
 pycosat==0.6.3
